@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning server side development
 - 👯 I’m looking to collaborate on people with the same interest and goal
 - 🤔 I’m looking for a solution to my code
-- 📫 How to reach me: ortecio.kyahandoy@gmail.com
+- 📫 How to reach me: kyahandoy@gmail.com
 
 
 
