@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on our capstone project
 - 🌱 I’m currently learning server side development
 - 👯 I’m looking to collaborate on people with the same interest and goal
-- 🤔 I’m looking for help with connecting db in node.js/express
-- 📫 How to reach me: ortecio.zandrogene30@gmail.com
+- 🤔 I’m looking for a solution to my code
+- 📫 How to reach me: ortecio.kyahandoy@gmail.com
 
 
 
