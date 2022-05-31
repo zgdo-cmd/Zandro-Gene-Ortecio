@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on our capstone project
 - 🌱 I’m currently learning server side development
 - 👯 I’m looking to collaborate on people with the same interest and goal
-- 🤔 I’m looking for a solution to my code
+- 🤔 I’m looking for a job
 - 📫 How to reach me: kyahandoy@gmail.com
 
 
