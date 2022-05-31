@@ -28,4 +28,5 @@
 <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
 <p>
