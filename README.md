@@ -1,8 +1,6 @@
 ### Hi there I'm Zandro Gene👋
 
 
-### I'm 22 years old and still learning things
-
 
 - 🔭 I’m currently working on our capstone project
 - 🌱 I’m currently learning server side development
