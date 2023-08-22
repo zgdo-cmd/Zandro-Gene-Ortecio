@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on our capstone project
-- 🌱 I’m currently learning server side development
-- 👯 I am looking for a web development collaboration with like-minded individuals.
+- 🔭 I’m currently looking for entry level jobs
+- 🌱 I’m currently learning server side development and cybersecurity stuffs
+- 🕸️ I'm also a web developer.
 
 
 
