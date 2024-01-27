@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently looking for entry level jobs
-- 🌱 I’m currently learning server side development and cybersecurity stuffs
-- 🕸️ I'm also a web developer.
+- 🛡️ I'm in a Cybersecurity field.
+- 👨‍💻 Currently developing my hacking skils and knowledge about web applications.
+- 🕸️ I'm also a web developer and web penetration tester.
 
 
 
