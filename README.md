@@ -30,8 +30,8 @@
 <p>
 
 ### Hacking Tools:
-Burp Suite
-Nmap
-Metasploit
-Wireshark
-Kali Linux
+- Burp Suite
+- Nmap
+- Metasploit
+- Wireshark
+- Kali Linux
