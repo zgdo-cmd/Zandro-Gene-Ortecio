@@ -35,3 +35,4 @@
 - Metasploit
 - Wireshark
 - Kali Linux
+- Bash
